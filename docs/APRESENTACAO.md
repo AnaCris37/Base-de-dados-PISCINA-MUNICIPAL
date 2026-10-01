@@ -1,9 +1,7 @@
-📄 Relatório completo: [relatorio-piscina.pdf](docs/relatorio-piscina.pdf)
 # Apresentação do Projeto – Piscina Municipal
 
-📄 **Relatório completo em PDF:** [relatorio-piscina.pdf](relatorio-piscina.pdf)
+📄 Relatório completo: [relatorio-piscina.pdf](docs/UC02830_Relatorio_Piscina Municipal_Grupo 5.pdf)
 
-![Diagrama Entidade-Relação](../image.png)
 
 ## Estrutura da base de dados
 
