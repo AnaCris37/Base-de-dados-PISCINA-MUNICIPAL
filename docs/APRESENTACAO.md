@@ -21,6 +21,7 @@ A base de dados tem **16 tabelas**:
 ## Consultas SQL
 
 | Nº | Tipo | Pergunta |
+|:--:|:---------:|----------------:|
 | 1 | Critérios (uma tabela) | Utentes com 65 ou mais anos |
 | 2 | Critérios (N tabelas) | Aulas na pista de competição |
 | 3 | Group By (Distinct) | Utentes distintos por serviço |
