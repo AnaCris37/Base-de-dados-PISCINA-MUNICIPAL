@@ -3,7 +3,7 @@
 
 Este projeto é uma base de dados em **SQL** para gerir uma piscina, com o registo de utentes, aulas, professores e inscrições. Foi desenvolvido em grupo na UC *Desenvolver uma base de dados com linguagem SQL*, do curso de Técnico de Desenvolvimento de Software. O objetivo foi organizar a informação em tabelas relacionadas e praticar consultas.
 
-![Diagrama da base de dados](![alt text](image.png))
+[alt text](image.png))
 
 > **Nota importante:** os dados usados neste projeto são fictícios e servem apenas para aprendizagem.
 
@@ -66,4 +66,4 @@ JOIN aula a ON i.id_aula = a.id_aula;
 
 Trabalho de grupo da UC02830 – *Desenvolver uma base de dados com linguagem SQL*.
 
-Documentação do MySQL: [dev.mysql.com](https://dev.mysql.com/doc/)
+Documentação do MySQL: [w3schools.com](https://www.w3schools.com/mysql/)
