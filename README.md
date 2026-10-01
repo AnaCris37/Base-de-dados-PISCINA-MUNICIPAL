@@ -3,7 +3,7 @@
 
 Este projeto é uma base de dados em **SQL** para gerir uma piscina, com o registo de utentes, aulas, professores e inscrições. Foi desenvolvido em grupo na UC *Desenvolver uma base de dados com linguagem SQL*, do curso de Técnico de Desenvolvimento de Software. O objetivo foi organizar a informação em tabelas relacionadas e praticar consultas.
 
-[alt text](image.png))
+![Diagrama da base de dados](image.png)
 
 > **Nota importante:** os dados usados neste projeto são fictícios e servem apenas para aprendizagem.
 
