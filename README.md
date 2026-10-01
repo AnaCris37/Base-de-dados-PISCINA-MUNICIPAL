@@ -69,4 +69,4 @@ Trabalho de grupo da UC02830 – *Desenvolver uma base de dados com linguagem SQ
 Documentação do MySQL: [w3schools.com](https://www.w3schools.com/mysql/)
 ## Apresentação
 
-Para ver a estrutura da base de dados e as 14 consultas SQL, consulta a [apresentação do projeto](APRESENTACAO.md).
+ **Apresentação do projeto:** [Ver apresentação](docs/APRESENTACAO.md)
