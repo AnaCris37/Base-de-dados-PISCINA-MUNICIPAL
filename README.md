@@ -61,7 +61,7 @@ JOIN aula a ON i.id_aula = a.id_aula;
 ## Autores
 
 - **Ana Cristina Marques** – [Perfil no GitHub](https://github.com/AnaCris37)
-- **Hugo Teixeira** -  [Perfil no GitHub] (https://github.com/Hugoteixeira566)
+- **Hugo Teixeira** -  [Perfil no GitHub](https://github.com/Hugoteixeira566)
 - **Jean Xavier** [Perfil no GitHub](https://github.com/jeanxavier2026)
 
 Trabalho de grupo da UC02830 – *Desenvolver uma base de dados com linguagem SQL*.
